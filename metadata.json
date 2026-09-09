@@ -1,0 +1,6 @@
+{
+  "name": "Bino String Trainer",
+  "description": "Two-Point Intervallic System guitar fretboard trainer with real-time audio pitch tracking and exercise modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
